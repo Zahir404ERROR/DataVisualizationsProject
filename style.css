@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    background-color: #121212;
+
+}
+
+.menu-item {
+    width: 250px;
+    height: 40px;
+    list-style-type: none;
+    padding-top: 20px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    background-color: #343038a4;
+}
+
+.container {
+  display: flex;
+
+}
+
+.hover {
+    background: #ce93d86b;
+}
+
+.selected{
+    background: #673AB7;
+    color: white;
+}
